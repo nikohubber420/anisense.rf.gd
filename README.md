@@ -1,1 +1,1 @@
-# anisense.rf.gd
+--if you plan on using this code then please credit us for our hard work and skidding off lucid and stormy
